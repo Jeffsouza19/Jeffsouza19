@@ -1,6 +1,12 @@
 ### Hi there 👋
 ## I'm Jeferson Souza
 
+<h4>Atualmente trabalho com PHP e Laravel.
+Sempre estudando e aprendendo novas tecnologias e tambem as quais eu trabalho.</br> </h4>
+
+<p>Estou aberto para contribuir para novos projetos sejam back ou front end, nas tecnologias quais eu estudo</p>
+
+<a href="https://www.linkedin.com/in/jeferson-souza-87ab8a1a1/" target="_blank"><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 
 <div align="center">
   <a href="https://github.com/Jeffsouza19">
