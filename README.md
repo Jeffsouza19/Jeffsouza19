@@ -10,10 +10,14 @@ Sempre estudando e aprendendo novas tecnologias e tambem as quais eu trabalho.</
 
 <div align="center">
   <a href="https://github.com/Jeffsouza19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeffsouza19&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffsouza19&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Jeffsouza19&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffsouza19&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
+  
+  ##
+  
 <div style="display: inline_block"><br>
+  <h2>Tecnologias que Estudo</h2>
   <img align="center" alt="Tw" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
@@ -21,7 +25,9 @@ Sempre estudando e aprendendo novas tecnologias e tambem as quais eu trabalho.</
   <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Bootstrap" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Bootstrap" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
           
 </div>
   
